@@ -1,0 +1,14 @@
+{
+  "name": "Balance",
+  "short_name": "Balance",
+  "description": "A quiet daily life balance app",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#101820",
+  "theme_color": "#101820",
+  "icons": [
+    { "src": "icons/balance-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/balance-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
