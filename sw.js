@@ -1,5 +1,5 @@
-const CACHE = 'balance-static-977d912fb4c2';
-const FILES = ["assets/index-B6m1lLZ5.css","assets/index-N_3wLQOH.js","icons/balance-192.png","icons/balance-512.png","index.html","manifest.webmanifest"];
+const CACHE = 'balance-static-48b64b4e0ef7';
+const FILES = ["assets/index-B6m1lLZ5.css","assets/index-DgG_j9Or.js","icons/balance-192.png","icons/balance-512.png","index.html","manifest.webmanifest"];
 const SCOPE = self.registration.scope;
 const ROOT = new URL('index.html', SCOPE);
 
